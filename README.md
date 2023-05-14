@@ -1,11 +1,11 @@
 
-  # This is a title
+  # README Generator
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is a descrption
+  This app prompts the user with a series of questions, the answers of which will be added to a professional  looking README.md file.  Multiple README files can be created, each one will have a unique timestamp.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -17,20 +17,20 @@
   * [Questions](#questions)
 
   ## Installation
-  This is installation 
+  N/A
 
   ## Usage
-  This is usage information
+  Run `node index.js` from the command line from the root of the project, and answer all the prompted questions.  Once completed , the file will be loacted in the `/markdown-files` folder.
   
   ## Main Features
-  this is main features
+  The ability to create as many Markdown files as needed. 
 
   ## Contributing
-  This is contribution guide lines
+  N/A
 
   ## Tests
-  this is instructions
+  N/A
 
   ## Questions
-  If you have any questions, please contact me at This is email address or visit my GitHub page at This is username
+  If you have any questions, please contact me at c.bigham@live.com or visit my GitHub page at cbigham25
   

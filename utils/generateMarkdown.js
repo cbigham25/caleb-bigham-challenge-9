@@ -133,7 +133,7 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  If you have any questions, please contact me at ${data.email} or visit my GitHub page at ${data.github}
+  If you have any questions, please contact me at ${data.email} or visit my [GitHub page](https://github.com/${data.github})
   
 `;
 }
