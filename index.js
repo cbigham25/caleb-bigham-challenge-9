@@ -76,7 +76,7 @@ const questions = [{
 function writeToFile(data) {
 
     const timestamp = new Date().toISOString().replace(/[-:.]/g, '');
-    const folderPath = 'markdown-files';
+    const folderPath = 'generated-markdown-files';
     const fileName = `README_${timestamp}.md`;
     const filePath = path.join(folderPath, fileName);
 
